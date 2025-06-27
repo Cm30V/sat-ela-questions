@@ -1,0 +1,17 @@
+
+*.pyc
+__pycache__/
+venv/
+.venv/
+env/
+.env/
+.DS_Store
+Thumbs.db
+.python-version
+.pytest_cache/
+user_data/                            
+*.log                      
+*.sqlite3             
+*.db                     
+.vscode/                 
+.idea/                    
